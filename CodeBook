@@ -1,0 +1,48 @@
+Activity: what activity the subject is doing 
+  WALKING
+  WALKING_UPSTAIRS
+  WALKING_DOWNSTAIRS
+  SITTING
+  STANDING
+  LAYING
+Subject: The volunteer number between 1 and 30 
+TriaxialBodyAccelerationMeanX: the mean of Triaxial Body Acceleration Mean for x groubed by activity and subject
+TriaxialBodyAccelerationMeanY: the mean of Triaxial Body Acceleration Mean for y groubed by activity and subject
+TriaxialBodyAccelerationMeanZ: the mean of Triaxial Body Acceleration Mean for z groubed by activity and subject
+TriaxialBodyAccelerationStdX: the mean of Triaxial Body Acceleration std for x groubed by activity and subject
+TriaxialBodyAccelerationStdY: the mean of Triaxial Body Acceleration std for y groubed by activity and subject
+TriaxialBodyAccelerationStdZ: the mean of Triaxial Body Acceleration std for z groubed by activity and subject
+TriaxialGravityAccelerationMeanX: the mean of Triaxial Gravity Acceleration Mean for x groubed by activity and subject
+TriaxialGravityAccelerationMeanY: the mean of Triaxial Gravity Acceleration Mean for y groubed by activity and subject
+TriaxialGravityAccelerationMeanZ: the mean of Triaxial Gravity Acceleration Mean for z groubed by activity and subject
+TriaxialGravityAccelerationStdX: the mean of Triaxial Gravity Acceleration Std for x groubed by activity and subject
+TriaxialGravityAccelerationStdY:  the mean of Triaxial Gravity Acceleration Std for y groubed by activity and subject
+TriaxialGravityAccelerationStdZ: the mean of Triaxial Gravity Acceleration Std for z groubed by activity and subject
+TriaxialBodyAccelerationJerkMeanX: the mean of Triaxial Body Acceleration Jerk Mean for x groubed by activity and subject
+TriaxialBodyAccelerationJerkMeanY: the mean of Triaxial Body Acceleration Jerk Mean for y groubed by activity and subject
+TriaxialBodyAccelerationJerkMeanZ: the mean of Triaxial Body Acceleration Jerk Mean for z groubed by activity and subject
+TriaxialBodyAccelerationJerkStdX: the mean of Triaxial Body Acceleration Jerk Std for x groubed by activity and subject
+TriaxialBodyAccelerationJerkStdY: the mean of Triaxial Body Acceleration Jerk Std for y groubed by activity and subject
+TriaxialBodyAccelerationJerkStdZ: the mean of Triaxial Body Acceleration Jerk Std for z groubed by activity and subject
+TriaxialBodyGyroscopeMeanX: the mean of Triaxial Body Gyroscope Mean for x groubed by activity and subject
+TriaxialBodyGyroscopeMeanY: the mean of Triaxial Body Gyroscope Mean for y groubed by activity and subject
+TriaxialBodyGyroscopeMeanZ: the mean of Triaxial Body Gyroscope Mean for z groubed by activity and subject
+TriaxialBodyGyroscopeStdX: the mean of Triaxial Body Gyroscope Std for x groubed by activity and subject
+TriaxialBodyGyroscopeStdY: the mean of Triaxial Body Gyroscope Std for y groubed by activity and subject
+TriaxialBodyGyroscopeStdZ: the mean of Triaxial Body Gyroscope Std for z groubed by activity and subject
+TriaxialBodyGyroscopeJerkMeanX: the mean of Triaxial Body Gyroscope Jerk Mean for x groubed by activity and subject
+TriaxialBodyGyroscopeJerkMeanY: the mean of Triaxial Body Gyroscope Jerk Mean for y groubed by activity and subject
+TriaxialBodyGyroscopeJerkMeanZ: the mean of Triaxial Body Gyroscope Jerk Mean for z groubed by activity and subject
+TriaxialBodyGyroscopeJerkStdX: the mean of Triaxial Body Gyroscope Jerk Std for x groubed by activity and subject
+TriaxialBodyGyroscopeJerkStdY: the mean of Triaxial Body Gyroscope Jerk Std for y groubed by activity and subject
+TriaxialBodyGyroscopeJerkStdZ: the mean of Triaxial Body Gyroscope Jerk Std for z groubed by activity and subject
+TriaxialBodyAccelerationMagnitudeMean: the mean of Triaxial Body Acceleration Magnitude Mean groubed by activity and subject
+TriaxialBodyAccelerationMagnitudeStd:  the mean of Triaxial Body Acceleration Magnitude Std groubed by activity and subject
+TriaxialGravityAccelerationMagnitudeMean: the mean of Triaxial Gravity Acceleration Magnitude Mean groubed by activity and subject
+TriaxialGravityAccelerationMagnitudeStd: the mean of Triaxial Gravity Acceleration Magnitude Std groubed by activity and subject
+TriaxialBodyAccelerationJerkMagnitudeMean: the mean of Triaxial Body Acceleration Jerk Magnitude Mean groubed by activity and subject
+TriaxialBodyAccelerationJerkMagnitudeStd: the mean of Triaxial Body Acceleration Jerk Magnitude Std groubed by activity and subject
+TriaxialBodyGyroscopeMagnitudeMean: the mean of Triaxial Body Gyroscope Magnitude Mean groubed by activity and subject
+TriaxialBodyGyroscopeMagnitudeStd: the mean of Triaxial Body Gyroscope Magnitude Std groubed by activity and subject
+TriaxialBodyGyroscopeJerkMagnitudeMean: the mean of Triaxial Body Gyroscope Jerk Magnitude Mean groubed by activity and subject
+TriaxialBodyGyroscopeJerkMagnitudeStd: the mean of Triaxial Body Gyroscope Jerk Magnitude Std groubed by activity and subject
